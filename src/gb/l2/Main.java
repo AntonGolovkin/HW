@@ -9,6 +9,7 @@ public class Main {
         System.out.println("");
         task4("line", 4);
         System.out.println(task5(2021));
+        System.out.println("");
 
     }
 
